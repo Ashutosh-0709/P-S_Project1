@@ -1,6 +1,6 @@
 ## Premise
 
-In this project, I conducted an in-depth analysis of over 1,000 Amazon product listings to uncover patterns and insights related to product performance and customer sentiment. By utilizing Python for data cleanup and exploratory analysis with Matplotlib, I identified key trends within specific categories. Additionally, I applied statistical methods such as confidence intervals, hypothesis testing, and correlation analysis to derive actionable insights.
+In this project, I conducted an in-depth analysis of over 1,000 Amazon product listings to uncover patterns and insights related to product performance and customer sentiment. By utilizing Python for data cleanup and exploratory analysis, I identified key trends within specific categories. Additionally, I applied statistical methods such as confidence intervals, hypothesis testing, and correlation analysis to derive actionable insights.
 
 ---
 

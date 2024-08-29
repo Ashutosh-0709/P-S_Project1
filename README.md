@@ -1,6 +1,6 @@
 ## Premise
 
-In this project, I have leveraged R (RStudio) and linear programming techniques to optimize a supply chain network involving 2 factories, 4 distribution centers, and 6 customers. The objective was to minimize transportation costs while ensuring that supply chain constraints, such as factory capacities, distribution center throughput limits and customer demands, were met efficiently. Through this optimization, the project aimed to enhance overall supply chain performance and improve the alignment between supply and demand.
+In this project, I conducted an in-depth analysis of over 1,000 Amazon product listings to uncover patterns and insights related to product performance and customer sentiment. By utilizing Python for data cleanup and exploratory analysis with Matplotlib, I identified key trends within specific categories. Additionally, I applied statistical methods such as confidence intervals, hypothesis testing, and correlation analysis to derive actionable insights.
 
 ---
 
